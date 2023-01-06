@@ -1,4 +1,4 @@
-# chatrooms
+# Flutter Firebase Firestore CRUD(Create, Read, Update, Delete)
 
 A new Flutter project.
 
